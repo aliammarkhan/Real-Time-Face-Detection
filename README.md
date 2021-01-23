@@ -1,5 +1,5 @@
-# Real-Time-Face-Detection
-Detecting faces of seven main characters of Big Bang theory in real time.
+# Real-Time-Face-Recognition
+Recognizing faces of seven main characters of Big Bang theory in real time.
 
 This is a simple face detection project which detects faces of characters from Big Bang Theory.
 
